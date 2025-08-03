@@ -1,0 +1,2 @@
+# Customer-Feedback-Sentiment-Analysis-using-Generative-AI-and-CSV-files
+This project provides a customer feedback analyzer using AI to analyze reviews in CSV files. It offers sentiment analysis, theme identification, and improvement suggestions via Google Gemini 2.0 API. The app is built with Streamlit and supports CSV file uploads. Users can select specific analysis types and view insights from customer feedback .
