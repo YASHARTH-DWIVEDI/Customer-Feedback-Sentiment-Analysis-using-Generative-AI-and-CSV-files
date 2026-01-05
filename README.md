@@ -63,9 +63,9 @@ GEMINI_API_KEY=your_api_key_here
 ---
 
 ## Contributing
-Contributions are welcome! If you'd like to improve the app or add features, please fork the repo and submit a pull request. Caio
+Contributions are welcome! If you'd like to improve the app or add features, please fork the repo and submit a pull request. Ciao!
 
-###App
+### App
 ![Project Screenshot](
 /Screenshot_app.jpg)
 
