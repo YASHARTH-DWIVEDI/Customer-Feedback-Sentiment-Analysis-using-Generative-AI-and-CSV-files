@@ -52,7 +52,6 @@ GEMINI_API_KEY=your_api_key_here
    - Choose your analysis focus (e.g., Sentiment Analysis, Theme Identification, etc.).
    - Click **"Analyze Feedback"** to generate insights.
 
-For additional guidance on building Streamlit apps with LLMs, refer to the [Streamlit LLM Quickstart Guide](https://docs.streamlit.io/develop/tutorials/chat-and-llm-apps/llm-quickstart).
 ---
 
 ## Future Improvements
@@ -72,5 +71,5 @@ Contributions are welcome! If you'd like to improve the app or add features, ple
 
 
 ## Contact
-For questions or suggestions, feel free to reach out via [your contact details].
+For questions or suggestions, feel free to reach out via yasharth1105@gmail.com .
 Happy Coding!!!
