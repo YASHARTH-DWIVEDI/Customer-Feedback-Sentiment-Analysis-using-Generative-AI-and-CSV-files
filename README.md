@@ -3,10 +3,10 @@
 The **Customer Feedback Analyzer** is a powerful web application that helps businesses analyze customer feedback using AI. It can identify sentiment, key themes, and suggest improvements based on uploaded CSV files containing customer reviews
 
 ## Features
-- 📂 Upload CSV files with customer feedback data.
+- 📂 Upload CSV files with customer feedback data, including Xquik exports.
 - 🔍 Choose your analysis focus:
   - Sentiment Analysis (Positive, Neutral, Negative)
-  - Theme Identification (e.g., pricing, service, product qualitY.
+  - Theme Identification (e.g., pricing, service, product quality).
   - Improvement Suggestions
   - All of the Above
 - 🧠 AI-driven insights powered by Google's Gemini 2.0 API.(You Can use any Models of your intrest) 
@@ -48,7 +48,7 @@ GEMINI_API_KEY=your_api_key_here
    ```
 2. In the Streamlit interface:
    - Upload a CSV file containing customer feedback.
-   - Select the column that holds the review data.
+   - Select the column that holds the review data. Common Xquik export columns such as `tweet_text` and `full_text` are auto-selected.
    - Choose your analysis focus (e.g., Sentiment Analysis, Theme Identification, etc.).
    - Click **"Analyze Feedback"** to generate insights.
 
